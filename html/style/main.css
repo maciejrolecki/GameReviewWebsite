@@ -1,0 +1,138 @@
+/**
+ Une en-tête de site, qui reprendra un titre de votre site ainsi qu’un lien "Re-
+cherche"
+Un pied de page qui reprend votre nom, l’année et la référence du cours
+*/
+/* CSS commun à tout le site */
+body {
+    margin: 0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+a{
+    color:#000;
+    text-decoration:none
+}
+img{
+    display:block;
+    margin:0;
+    max-width:100%;
+    height:auto;
+}
+
+nav#main-nav>div{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+nav#main-nav ul{
+    list-style-type:none;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+}
+nav#main-nav ul>li{
+    margin:0 10px
+}
+#logo{
+    width:120px;
+
+}
+.container{
+    width:98%;
+    max-width:1240px;
+    margin:auto;
+}
+#main{
+    
+}
+.slider-game-popular .slide-game-item{
+    padding:5px;
+}
+.slider-game-popular .slide-game-item>div{
+    border:solid 1px #000
+}
+.slider-game-popular .slide-game-item .slide-title-container{
+    padding:10px;
+    text-align:center
+}
+
+.video-responsive { 
+    overflow:hidden; 
+    padding-bottom:56.25%; 
+    position:relative; 
+    height:0;
+    }
+    
+    .video-responsive iframe {
+    left:0; 
+    top:0; 
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+#game-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#game-grid .game-item{
+    max-width: 380px;
+    margin:10px;
+}
+
+.categories{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    list-style-type:none
+}
+
+.categories>li{
+    display:inline-block;
+    padding:10px;
+    background-color:#23F0C7;
+    color:#fff;
+    margin:5px;
+    border-radius:5px;
+    min-width: 80px;text-align:center;
+}
+
+.categories>li.bg-horreur{
+    background-color: #EF767A;
+}
+.categories>li.bg-fps{
+    background-color: #7d7abc;
+}
+.categories>li.bg-vr{
+    background-color: #6457A6;
+}
+.categories>li.bg-ow{
+    background-color: #ffe347;
+}
+
+footer {
+    border-bottom: #000;
+    position: relatiive;
+    bottom: 0;
+    margin-bottom: 0;
+    font-size: small;
+    border-top: .5px solid black;
+    width: 100%;
+    background-color: #1B998B;
+    text-align: center;
+    display: block;
+}
+
+#search-container{
+    text-align: center;
+}
+.search{
+    min-height: 20;
+    text-align: center;
+    
+}

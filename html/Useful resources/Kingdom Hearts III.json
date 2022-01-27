@@ -1,0 +1,611 @@
+[
+    {
+        "age_ratings": [
+            {
+                "category": "ESRB",
+                "id": 24267,
+                "rating": "E10"
+            },
+            {
+                "category": "PEGI",
+                "id": 28940,
+                "rating": "Twelve"
+            }
+        ],
+        "aggregated_rating": 89.8,
+        "alternative_names": [
+            {
+                "id": 37713,
+                "name": "Kingdom Hearts 3"
+            },
+            {
+                "id": 37715,
+                "name": "KH3"
+            },
+            {
+                "id": 37716,
+                "name": "Kingudamu Haatsu III"
+            },
+            {
+                "id": 53726,
+                "name": "キングダム　ハーツ　III"
+            }
+        ],
+        "artworks": [
+            {
+                "id": 3360,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/wmblukdmkkw6nwdkzin7.jpg"
+            },
+            {
+                "id": 6400,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/ar4xs.jpg"
+            },
+            {
+                "id": 7290,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5mi.jpg"
+            }
+        ],
+        "bundles": [
+            {
+                "cover": {
+                    "id": 91240,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1yeg.jpg"
+                },
+                "id": 27939,
+                "name": "KINGDOM HEARTS All-In-One Package"
+            }
+        ],
+        "collection": {
+            "id": 272,
+            "name": "Kingdom Hearts"
+        },
+        "cover": {
+            "id": 85174,
+            "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1tpy.jpg"
+        },
+        "expansions": [
+            {
+                "cover": {
+                    "id": 89913,
+                    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xdl.jpg.jpg"
+                },
+                "id": 117778,
+                "name": "Kingdom Hearts III: ReMind"
+            }
+        ],
+        "franchises": [
+            {
+                "id": 26,
+                "name": "Disney"
+            },
+            {
+                "id": 720,
+                "name": "Kingdom Hearts"
+            }
+        ],
+        "game_engines": [
+            {
+                "id": 6,
+                "name": "Unreal Engine"
+            }
+        ],
+        "game_modes": [
+            {
+                "id": 1,
+                "name": "Single player"
+            }
+        ],
+        "genres": [
+            {
+                "id": 12,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "id": 25,
+                "name": "Hack and slash/Beat 'em up"
+            },
+            {
+                "id": 31,
+                "name": "Adventure"
+            }
+        ],
+        "id": 2933,
+        "involved_companies": [
+            {
+                "company": {
+                    "id": 26,
+                    "name": "Square Enix"
+                },
+                "developer": false,
+                "id": 104175,
+                "porting": false,
+                "publisher": true,
+                "supporting": false
+            },
+            {
+                "company": {
+                    "id": 426,
+                    "name": "Disney Interactive Studios"
+                },
+                "developer": false,
+                "id": 104177,
+                "porting": false,
+                "publisher": true,
+                "supporting": false
+            },
+            {
+                "company": {
+                    "id": 26,
+                    "name": "Square Enix"
+                },
+                "developer": true,
+                "id": 106720,
+                "porting": false,
+                "publisher": false,
+                "supporting": false
+            }
+        ],
+        "keywords": [
+            {
+                "id": 78,
+                "name": "anime"
+            },
+            {
+                "id": 296,
+                "name": "fantasy"
+            },
+            {
+                "id": 645,
+                "name": "disney"
+            },
+            {
+                "id": 960,
+                "name": "compilation"
+            },
+            {
+                "id": 1026,
+                "name": "role playing"
+            },
+            {
+                "id": 1075,
+                "name": "crossover"
+            },
+            {
+                "id": 2154,
+                "name": "shield"
+            },
+            {
+                "id": 2242,
+                "name": "good vs evil"
+            },
+            {
+                "id": 2472,
+                "name": "sword & sorcery"
+            },
+            {
+                "id": 2510,
+                "name": "final fantasy"
+            },
+            {
+                "id": 3486,
+                "name": "boss fight"
+            },
+            {
+                "id": 3833,
+                "name": "bosses"
+            },
+            {
+                "id": 4099,
+                "name": "titan"
+            },
+            {
+                "id": 4131,
+                "name": "unreal engine 4"
+            },
+            {
+                "id": 4161,
+                "name": "jump"
+            },
+            {
+                "id": 4162,
+                "name": "anthropomorphism"
+            },
+            {
+                "id": 4169,
+                "name": "male protagonists"
+            },
+            {
+                "id": 4353,
+                "name": "human"
+            },
+            {
+                "id": 4525,
+                "name": "third-person perspective"
+            },
+            {
+                "id": 4907,
+                "name": "gloves"
+            },
+            {
+                "id": 4918,
+                "name": "real-time combat"
+            },
+            {
+                "id": 4974,
+                "name": "male antagonist"
+            },
+            {
+                "id": 5022,
+                "name": "final boss"
+            },
+            {
+                "id": 5095,
+                "name": "knight"
+            },
+            {
+                "id": 5296,
+                "name": "japanese games based on western ips"
+            },
+            {
+                "id": 5329,
+                "name": "coming of age"
+            },
+            {
+                "id": 5417,
+                "name": "e3 2013"
+            },
+            {
+                "id": 5851,
+                "name": "genius-level intellect"
+            },
+            {
+                "id": 6064,
+                "name": "power of friendship"
+            },
+            {
+                "id": 6163,
+                "name": "can't kill innocents"
+            },
+            {
+                "id": 6217,
+                "name": "organization xiii"
+            },
+            {
+                "id": 6218,
+                "name": "kingdom hearts"
+            },
+            {
+                "id": 6219,
+                "name": "heartless"
+            },
+            {
+                "id": 6220,
+                "name": "nobody"
+            },
+            {
+                "id": 6221,
+                "name": "androgyny"
+            },
+            {
+                "id": 6222,
+                "name": "unversed"
+            },
+            {
+                "id": 6223,
+                "name": "inside a living creature"
+            },
+            {
+                "id": 6224,
+                "name": "princesses of heart"
+            },
+            {
+                "id": 6225,
+                "name": "monarchy"
+            },
+            {
+                "id": 6226,
+                "name": "keyblade war"
+            },
+            {
+                "id": 6227,
+                "name": "keyblade"
+            },
+            {
+                "id": 6228,
+                "name": "x-blade keyblade"
+            },
+            {
+                "id": 6686,
+                "name": "hd collection"
+            },
+            {
+                "id": 8294,
+                "name": "nodachi"
+            }
+        ],
+        "name": "Kingdom Hearts III",
+        "platforms": [
+            {
+                "id": 6,
+                "name": "PC (Microsoft Windows)"
+            },
+            {
+                "id": 48,
+                "name": "PlayStation 4"
+            },
+            {
+                "id": 49,
+                "name": "Xbox One"
+            }
+        ],
+        "player_perspectives": [
+            {
+                "id": 2,
+                "name": "Third person"
+            }
+        ],
+        "release_dates": [
+            {
+                "human": "Jan 29, 2019",
+                "id": 156086,
+                "platform": {
+                    "id": 48,
+                    "name": "PlayStation 4"
+                },
+                "region": 8
+            },
+            {
+                "human": "Jan 29, 2019",
+                "id": 156087,
+                "platform": {
+                    "id": 49,
+                    "name": "Xbox One"
+                },
+                "region": 8
+            },
+            {
+                "human": "Jan 25, 2019",
+                "id": 162349,
+                "platform": {
+                    "id": 49,
+                    "name": "Xbox One"
+                },
+                "region": 5
+            },
+            {
+                "human": "Jan 25, 2019",
+                "id": 162350,
+                "platform": {
+                    "id": 48,
+                    "name": "PlayStation 4"
+                },
+                "region": 5
+            },
+            {
+                "human": "Mar 30, 2021",
+                "id": 228172,
+                "platform": {
+                    "id": 6,
+                    "name": "PC (Microsoft Windows)"
+                },
+                "region": 8
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 10492,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/fyf27q7yd0tqwaniyf4a.jpg"
+            },
+            {
+                "id": 10493,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/radqp9dbon3hphczz8wo.jpg"
+            },
+            {
+                "id": 10494,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/hegewmjbntl4c8yxmgxu.jpg"
+            },
+            {
+                "id": 213040,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/su3luh5hh75kdkxshzga.jpg"
+            },
+            {
+                "id": 213041,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/ecoazbxlic6pmui7nncf.jpg"
+            },
+            {
+                "id": 213042,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/somrevp8tsafpankuwko.jpg"
+            },
+            {
+                "id": 213043,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/eyxcarmp44ywmlablc2h.jpg"
+            },
+            {
+                "id": 213044,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/wry9gktn3ruwpef8byfj.jpg"
+            },
+            {
+                "id": 213045,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/exu3z963lrfkwniys4kg.jpg"
+            },
+            {
+                "id": 213046,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/pdaqdb620qftrmjpplo5.jpg"
+            },
+            {
+                "id": 213047,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/zdcexvwhvrxa2jqvocku.jpg"
+            },
+            {
+                "id": 213048,
+                "url": "https://images.igdb.com/igdb/image/upload/t_1080p/hzhlnbpe2sjrrqlyqs5b.jpg"
+            }
+        ],
+        "similar_games": [
+            {
+                "cover": {
+                    "id": 82076,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbw.jpg"
+                },
+                "id": 1864,
+                "name": "Ni no Kuni: Wrath of the White Witch"
+            },
+            {
+                "cover": {
+                    "id": 112131,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eir.jpg"
+                },
+                "id": 10760,
+                "name": "Bloodstained: Ritual of the Night"
+            },
+            {
+                "cover": {
+                    "id": 81567,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qxr.jpg"
+                },
+                "id": 11169,
+                "name": "Final Fantasy VII Remake"
+            },
+            {
+                "cover": {
+                    "id": 82369,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rk1.jpg"
+                },
+                "id": 18812,
+                "name": "Tales of Berseria"
+            },
+            {
+                "cover": {
+                    "id": 81875,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r6b.jpg"
+                },
+                "id": 22387,
+                "name": "Legrand Legacy"
+            },
+            {
+                "cover": {
+                    "id": 81873,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r69.jpg"
+                },
+                "id": 28168,
+                "name": "Code Vein"
+            },
+            {
+                "cover": {
+                    "id": 117794,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iw2.jpg"
+                },
+                "id": 36198,
+                "name": "Children of Morta"
+            },
+            {
+                "cover": {
+                    "id": 82160,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1re8.jpg"
+                },
+                "id": 55038,
+                "name": "Immortal: Unchained"
+            },
+            {
+                "cover": {
+                    "id": 81874,
+                    "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r6a.jpg"
+                },
+                "id": 55199,
+                "name": "Dragon: Marked for Death"
+            }
+        ],
+        "storyline": "Through countless adventures across many worlds in his long battle against the darkness, Sora, once a little boy who only dreamed worlds beyond his island even existed, has grown up to a dashing young man. Now he is realizing that that battle has played out exactly as Master Xehanort had planned, and the second Keyblade War, the final struggle between light and dark, looms ahead. To counter the overwhelming darkness, Sora and his friends must gather the seven guardians of light. His best friend Riku and King Mickey seek out a battle-scarred Keyblade wielder, while Sora, Donald, and Goofy set off on a journey to find \u201cthe Key to Return Hearts.\u201d Never-before-featured Disney worlds set the stage for another daring adventure to save the universe! \n \nChosen by the Keyblade, he is the one whose heart\u2019s light never fails to shine as a beacon of hope. \n \nSora, the brave hero chosen by the Keyblade, has always had a strong sense of justice. Through his many battles against darkness, he has grown and learned about the world immensely. Drawn to his light, many friends have lent him their support and granted him their powers to counter the darkness: Riku, the childhood friend he grew up with on Destiny Islands; Donald and Goofy, the two brave comrades with whom he has shared his adventures from the very beginning; and King Mickey, who gives Sora his unfailing support. As the world becomes enveloped in another battle against darkness, the Keyblade wielder and his friends must rise up against Master Xehanort and thwart his plot to incite another Keyblade War.",
+        "summary": "Kingdom Hearts III is the third main installment in the Kingdom Hearts series developed and published by Square Enix. It was initially released January 2019 for the PlayStation 4 and the Xbox One. An expansion, Kingdom Hearts III Re Mind was released in January 2020. \n \nThe story takes place after the events of Kingdom Hearts 3D: Dream Drop Distance. It features an older Sora as the main protagonist, who sets forth on a new adventure to search for seven guardians of light in an attempt to stop Xehanort from bringing about a second Keyblade War. Sora is joined by Donald Duck, Goofy, Mickey Mouse, Riku, Kairi, and others. Along the way, Sora travels to many worlds from Disney and Pixar intellectual properties, and cross paths with the real Organization XIII. \n \nKingdom Hearts III features hack and slash combat reminiscent of Kingdom Hearts II, with elements from later handheld entries, allowing the player to control Sora in a party with Donald, Goofy, and up to two other Disney characters from the various worlds he visits. A major addition compared is the Formchange mechanic, which allows his currently equipped Keyblade to grant him special abilities and change shape. Sora can equip up to three Keyblades at a time, and cycle between them to use his abilities. Another addition is the Attractions mechanic, which occasionally allows Sora to summon and pilot a vehicle inspired by Disney theme park attractions. At certain points throughout the game, the player will be able to control other characters.",
+        "themes": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 17,
+                "name": "Fantasy"
+            },
+            {
+                "id": 31,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Kids"
+            }
+        ],
+        "videos": [
+            {
+                "id": 20494,
+                "video_id": "gPtU_-N6dMg"
+            },
+            {
+                "id": 20607,
+                "video_id": "MRR30GSWZjc"
+            },
+            {
+                "id": 23046,
+                "video_id": "EunHzNTCpx8"
+            },
+            {
+                "id": 23170,
+                "video_id": "0YSPmzVqfpQ"
+            },
+            {
+                "id": 23767,
+                "video_id": "a-fmsw5m0Ag"
+            },
+            {
+                "id": 23768,
+                "video_id": "lz1w_uW3lSE"
+            },
+            {
+                "id": 24259,
+                "video_id": "EElFaj4ezUU"
+            }
+        ],
+        "websites": [
+            {
+                "category": 5,
+                "id": 8197,
+                "url": "https://twitter.com/KINGDOMHEARTS"
+            },
+            {
+                "category": 4,
+                "id": 8198,
+                "url": "https://www.facebook.com/KingdomHearts/"
+            },
+            {
+                "category": 3,
+                "id": 64851,
+                "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_III"
+            },
+            {
+                "category": 2,
+                "id": 95561,
+                "url": "https://www.khwiki.com/Kingdom_Hearts_III"
+            },
+            {
+                "category": 1,
+                "id": 147324,
+                "url": "https://www.kingdomhearts.com/3/us/home/"
+            },
+            {
+                "category": 9,
+                "id": 147325,
+                "url": "https://www.youtube.com/channel/UCCyrXyelKeXFx5KDgldMmNw"
+            },
+            {
+                "category": 14,
+                "id": 147326,
+                "url": "https://www.reddit.com/r/KingdomHearts"
+            },
+            {
+                "category": 16,
+                "id": 169390,
+                "url": "https://www.epicgames.com/product/kingdom-hearts-iii"
+            }
+        ]
+    }
+]
